@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Project_Table_of_Days_Calender.iml" filepath="$PROJECT_DIR$/Project_Table_of_Days_Calender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendar_Project.iml" filepath="$PROJECT_DIR$/Calendar_Project.iml" />
     </modules>
   </component>
 </project>
