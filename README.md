@@ -1,5 +1,7 @@
 # About This Calender project
 
-* **Display all days in the month.**
-* **Contains Days and Weeks.**
-* **Year presentation, like if this year have 28 Days or NOT.**
+* Contains **help menu.**
+* **Display** like any **regular calendar.**
+* Display **all the days** in any month.
+* Contains **Days** and **Weeks.**
+* **Year presentation,** like if this year **leab** or **not** "have 28 Days or NOT".

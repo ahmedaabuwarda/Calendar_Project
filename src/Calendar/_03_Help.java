@@ -1,7 +1,21 @@
+/*
+ * To change this template file, choose Settings | Editor | File and Code Templates
+ * and change the template in the editor.
+ */
+
+package Calendar;
+
+/**
+ * @author Ahmed Abuwarda.
+ */
 class _03_Help {
 
+    /**
+     * This Method Return Help Message.
+     */
     static void help(){
 
+        // Print Help Message.
         System.out.println("\n  >> Welcome to my small Calendar project!" +
                 "\n\t I hope you enjoy it!" +
                 "\n\t here! how you can use it, it is very simple!..." +
@@ -21,4 +35,5 @@ class _03_Help {
                 "---------------------------");
 
     }
+
 }
